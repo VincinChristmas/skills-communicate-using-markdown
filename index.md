@@ -9,6 +9,8 @@
 
 
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 just testing out some markup changes
